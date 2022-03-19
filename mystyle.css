@@ -4,9 +4,10 @@ body.main {
 h1, h2, h3, p {
     text-align: center;
     font-family: "Lucida Console", "Courier New", monospace;
+    font-size: medium;
     color: rgb(49, 49, 49);
 }
-.container {
+.container1 {
     text-align: center;
     margin: auto;
     background-color: rgba(209,209,209,255);
@@ -15,3 +16,12 @@ h1, h2, h3, p {
     border: 15px solid rgb(49, 49, 49);
     padding: 50px;
   }
+.container2 {
+    text-align: center;
+    margin: auto;
+    background-color: rgba(209,209,209,255);
+    height: 450px;
+    width: 300px;
+    border: 15px solid rgb(49, 49, 49);
+    padding: 20px;
+}
