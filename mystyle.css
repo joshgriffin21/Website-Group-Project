@@ -3,6 +3,7 @@ body.main {
 }
 h1, h2, h3, p {
     text-align: center;
+    font-family: "Lucida Console", "Courier New", monospace;
     color: rgb(49, 49, 49);
 }
 div {
