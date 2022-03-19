@@ -1,0 +1,17 @@
+
+<!DOCTYPE html>
+<html>
+<body>
+<img src="dayly.png" alt="My test image">
+<p>I'm hosted with GitHub Pages.</p>
+<h1><strong>Dayly</strong></h1>
+<p>Get Social</p>
+<p><p>
+<button type="Account Home">Account Home</button>
+<p><p>
+<button type="Friends">Friends</button>
+<p><p>
+<button type="New post">New Post</button>
+
+</body>
+</html>
