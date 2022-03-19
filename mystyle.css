@@ -6,10 +6,13 @@ h1, h2, h3, p {
     font-family: "Lucida Console", "Courier New", monospace;
     color: rgb(49, 49, 49);
 }
-div {
+.container {
+    text-align: center;
     margin: auto;
     background-color: rgba(209,209,209,255);
+    height: 280px;
     width: 300px;
     border: 15px solid rgb(49, 49, 49);
     padding: 50px;
+    font-family: "Lucida Console", "Courier New", monospace;
   }
